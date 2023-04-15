@@ -1,6 +1,6 @@
 <h1>Hello, I'm Luisfer</h1>
 
-<h3 align="center">Desarrollador web altamente motivado y creativo con 1 año de experiencia en Front-end y Back-end. Poseo habilidades sólidas en programación, diseño y desarrollo web, junto con una pasión por la creación de sitios web únicos y de alta calidad. Me adapto fácilmente a los cambios y trabajo bien bajo presión, lo que me permite cumplir con los plazos de manera efectiva.</h3>
+<h3 align="center">Desarrollador web altamente motivado y creativo con 1 año de experiencia en Front-end y Back-end. Poseo habilidades sólidas en programación, diseño y desarrollo web, junto con una pasión por la creación de sitios web únicos y de alta calidad.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
